@@ -1,7 +1,2 @@
 line1 master
-
-line 2 master
-
-
-line1 navbar
-
+line2 
